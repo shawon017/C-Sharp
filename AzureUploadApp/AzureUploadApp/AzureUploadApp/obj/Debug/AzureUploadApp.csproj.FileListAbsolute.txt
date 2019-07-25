@@ -1,0 +1,43 @@
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\AzureUploadApp\AzureUploadApp\bin\Debug\AzureUploadApp.exe.config
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\AzureUploadApp\AzureUploadApp\bin\Debug\AzureUploadApp.exe
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\AzureUploadApp\AzureUploadApp\bin\Debug\AzureUploadApp.pdb
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\AzureUploadApp\AzureUploadApp\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\AzureUploadApp\AzureUploadApp\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\AzureUploadApp\AzureUploadApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\AzureUploadApp\AzureUploadApp\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\AzureUploadApp\AzureUploadApp\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\AzureUploadApp\AzureUploadApp\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\AzureUploadApp\AzureUploadApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\AzureUploadApp\AzureUploadApp\obj\Debug\AzureUploadApp.csprojAssemblyReference.cache
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\AzureUploadApp\AzureUploadApp\obj\Debug\AzureUploadApp.csproj.CoreCompileInputs.cache
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\AzureUploadApp\AzureUploadApp\obj\Debug\AzureUploadApp.csproj.CopyComplete
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\AzureUploadApp\AzureUploadApp\obj\Debug\AzureUploadApp.exe
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\AzureUploadApp\AzureUploadApp\obj\Debug\AzureUploadApp.pdb
+C:\Users\mpathan4\OneDrive - Schlumberger\Automations\AHVB\C# .NET\AzureUploadApp\AzureUploadApp\bin\Debug\AzureUploadApp.exe.config
+C:\Users\mpathan4\OneDrive - Schlumberger\Automations\AHVB\C# .NET\AzureUploadApp\AzureUploadApp\bin\Debug\AzureUploadApp.exe
+C:\Users\mpathan4\OneDrive - Schlumberger\Automations\AHVB\C# .NET\AzureUploadApp\AzureUploadApp\bin\Debug\AzureUploadApp.pdb
+C:\Users\mpathan4\OneDrive - Schlumberger\Automations\AHVB\C# .NET\AzureUploadApp\AzureUploadApp\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\mpathan4\OneDrive - Schlumberger\Automations\AHVB\C# .NET\AzureUploadApp\AzureUploadApp\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\mpathan4\OneDrive - Schlumberger\Automations\AHVB\C# .NET\AzureUploadApp\AzureUploadApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mpathan4\OneDrive - Schlumberger\Automations\AHVB\C# .NET\AzureUploadApp\AzureUploadApp\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\mpathan4\OneDrive - Schlumberger\Automations\AHVB\C# .NET\AzureUploadApp\AzureUploadApp\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\mpathan4\OneDrive - Schlumberger\Automations\AHVB\C# .NET\AzureUploadApp\AzureUploadApp\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\mpathan4\OneDrive - Schlumberger\Automations\AHVB\C# .NET\AzureUploadApp\AzureUploadApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mpathan4\OneDrive - Schlumberger\Automations\AHVB\C# .NET\AzureUploadApp\AzureUploadApp\obj\Debug\AzureUploadApp.csproj.CoreCompileInputs.cache
+C:\Users\mpathan4\OneDrive - Schlumberger\Automations\AHVB\C# .NET\AzureUploadApp\AzureUploadApp\obj\Debug\AzureUploadApp.csproj.CopyComplete
+C:\Users\mpathan4\OneDrive - Schlumberger\Automations\AHVB\C# .NET\AzureUploadApp\AzureUploadApp\obj\Debug\AzureUploadApp.exe
+C:\Users\mpathan4\OneDrive - Schlumberger\Automations\AHVB\C# .NET\AzureUploadApp\AzureUploadApp\obj\Debug\AzureUploadApp.pdb
+C:\Users\GLB_BIRPT_VM3!\Documents\AzureUploadApp\AzureUploadApp\AzureUploadApp\bin\Debug\AzureUploadApp.exe.config
+C:\Users\GLB_BIRPT_VM3!\Documents\AzureUploadApp\AzureUploadApp\AzureUploadApp\bin\Debug\AzureUploadApp.exe
+C:\Users\GLB_BIRPT_VM3!\Documents\AzureUploadApp\AzureUploadApp\AzureUploadApp\bin\Debug\AzureUploadApp.pdb
+C:\Users\GLB_BIRPT_VM3!\Documents\AzureUploadApp\AzureUploadApp\AzureUploadApp\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\GLB_BIRPT_VM3!\Documents\AzureUploadApp\AzureUploadApp\AzureUploadApp\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\GLB_BIRPT_VM3!\Documents\AzureUploadApp\AzureUploadApp\AzureUploadApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GLB_BIRPT_VM3!\Documents\AzureUploadApp\AzureUploadApp\AzureUploadApp\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\GLB_BIRPT_VM3!\Documents\AzureUploadApp\AzureUploadApp\AzureUploadApp\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\GLB_BIRPT_VM3!\Documents\AzureUploadApp\AzureUploadApp\AzureUploadApp\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\GLB_BIRPT_VM3!\Documents\AzureUploadApp\AzureUploadApp\AzureUploadApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GLB_BIRPT_VM3!\Documents\AzureUploadApp\AzureUploadApp\AzureUploadApp\obj\Debug\AzureUploadApp.csproj.CoreCompileInputs.cache
+C:\Users\GLB_BIRPT_VM3!\Documents\AzureUploadApp\AzureUploadApp\AzureUploadApp\obj\Debug\AzureUploadApp.csproj.CopyComplete
+C:\Users\GLB_BIRPT_VM3!\Documents\AzureUploadApp\AzureUploadApp\AzureUploadApp\obj\Debug\AzureUploadApp.exe
+C:\Users\GLB_BIRPT_VM3!\Documents\AzureUploadApp\AzureUploadApp\AzureUploadApp\obj\Debug\AzureUploadApp.pdb

@@ -1,0 +1,22 @@
+C:\Users\GLB_BIRPT_VM3!\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\GLB_BIRPT_VM3!\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\GLB_BIRPT_VM3!\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\GLB_BIRPT_VM3!\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\GLB_BIRPT_VM3!\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\GLB_BIRPT_VM3!\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\GLB_BIRPT_VM3!\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\bin\Debug\ExcelDataReader.dll
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\bin\Debug\ExcelDataReader.pdb
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\bin\Debug\ExcelDataReader.xml
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete

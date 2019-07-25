@@ -1,0 +1,68 @@
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\bin\Debug\ExcelDataReader.dll
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\bin\Debug\ExcelDataReader.pdb
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\bin\Debug\ExcelDataReader.xml
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\obj\Debug\DecryptFile.csproj.ResolveComReference.cache
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\obj\Debug\DecryptFile.csproj.CoreCompileInputs.cache
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\obj\Debug\DecryptFile.csproj.CopyComplete
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\obj\Debug\DecryptFile.csprojAssemblyReference.cache
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\GLB_BIRPT_VM3!\Documents\Visual Studio 2017\repos\DecryptFiles\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
+C:\Users\mpathan4\Downloads\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\mpathan4\Downloads\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\mpathan4\Downloads\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\mpathan4\Downloads\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\mpathan4\Downloads\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\mpathan4\Downloads\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\obj\Debug\DecryptFile.csprojAssemblyReference.cache
+C:\Users\mpathan4\Downloads\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\obj\Debug\DecryptFile.csproj.ResolveComReference.cache
+C:\Users\mpathan4\Downloads\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\obj\Debug\DecryptFile.csproj.CoreCompileInputs.cache
+C:\Users\mpathan4\Downloads\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\mpathan4\Downloads\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
+C:\Users\mpathan4\Downloads\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\mpathan4\Downloads\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\mpathan4\Downloads\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\mpathan4\Downloads\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\mpathan4\Downloads\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\System.IO.Packaging.dll
+C:\Users\mpathan4\Downloads\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\mpathan4\Downloads\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\obj\Debug\DecryptFile.csproj.CopyComplete
+C:\Users\mpathan4\Downloads\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\mpathan4\Downloads\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\mpathan4\Downloads\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mpathan4\Downloads\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\mpathan4\Downloads\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\mpathan4\Downloads\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\mpathan4\Downloads\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mpathan4\OneDrive - Schlumberger\Azure\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\mpathan4\OneDrive - Schlumberger\Azure\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\mpathan4\OneDrive - Schlumberger\Azure\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\mpathan4\OneDrive - Schlumberger\Azure\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\mpathan4\OneDrive - Schlumberger\Azure\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\mpathan4\OneDrive - Schlumberger\Azure\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\Microsoft.Azure.ConfigurationManager.dll
+C:\Users\mpathan4\OneDrive - Schlumberger\Azure\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\mpathan4\OneDrive - Schlumberger\Azure\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\Microsoft.Azure.Storage.Common.dll
+C:\Users\mpathan4\OneDrive - Schlumberger\Azure\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\mpathan4\OneDrive - Schlumberger\Azure\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mpathan4\OneDrive - Schlumberger\Azure\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\mpathan4\OneDrive - Schlumberger\Azure\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\System.IO.Packaging.dll
+C:\Users\mpathan4\OneDrive - Schlumberger\Azure\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\Microsoft.Azure.ConfigurationManager.xml
+C:\Users\mpathan4\OneDrive - Schlumberger\Azure\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\mpathan4\OneDrive - Schlumberger\Azure\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\mpathan4\OneDrive - Schlumberger\Azure\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\mpathan4\OneDrive - Schlumberger\Azure\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mpathan4\OneDrive - Schlumberger\Azure\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\obj\Debug\DecryptFile.csproj.ResolveComReference.cache
+C:\Users\mpathan4\OneDrive - Schlumberger\Azure\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\obj\Debug\DecryptFile.csproj.CoreCompileInputs.cache
+C:\Users\mpathan4\OneDrive - Schlumberger\Azure\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\mpathan4\OneDrive - Schlumberger\Azure\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
+C:\Users\mpathan4\OneDrive - Schlumberger\Azure\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\obj\Debug\DecryptFile.csproj.CopyComplete
+C:\Users\mpathan4\OneDrive - Schlumberger\Azure\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\mpathan4\OneDrive - Schlumberger\Azure\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\mpathan4\OneDrive - Schlumberger\Azure\batch-dotnet\DecryptFiles\DecryptFiles\WindowsFormsApplication1\obj\Debug\DecryptFile.csprojAssemblyReference.cache
