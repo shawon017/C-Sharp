@@ -1,0 +1,6 @@
+C:\Users\mpathan4\source\repos\ColumnNamesToDatabase\ColumnNamesToDatabase\bin\Debug\ColumnNamesToDatabase.exe.config
+C:\Users\mpathan4\source\repos\ColumnNamesToDatabase\ColumnNamesToDatabase\bin\Debug\ColumnNamesToDatabase.exe
+C:\Users\mpathan4\source\repos\ColumnNamesToDatabase\ColumnNamesToDatabase\bin\Debug\ColumnNamesToDatabase.pdb
+C:\Users\mpathan4\source\repos\ColumnNamesToDatabase\ColumnNamesToDatabase\obj\Debug\ColumnNamesToDatabase.csprojAssemblyReference.cache
+C:\Users\mpathan4\source\repos\ColumnNamesToDatabase\ColumnNamesToDatabase\obj\Debug\ColumnNamesToDatabase.exe
+C:\Users\mpathan4\source\repos\ColumnNamesToDatabase\ColumnNamesToDatabase\obj\Debug\ColumnNamesToDatabase.pdb
